@@ -18,6 +18,7 @@ class SubjectForm extends Component {
             <form name="subject-form">
                 <select name="select-subject">
                     // create a for loop using subjects
+                    // each subject needs to be coloured and bolded
                     <option value="Biology" className="biology">Biology</option>
                     <option value="Chemistry" className="biology">Chemistry</option>
                     <option value="Physics" className="biology">Physics</option>
